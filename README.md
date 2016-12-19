@@ -1,6 +1,4 @@
-# spring-boot-freemarker-hello-world-example
-
-Spring Boot FreeMarker Hello World Example
+# Spring Boot FreeMarker Hello World Example
 
 Guide
 
